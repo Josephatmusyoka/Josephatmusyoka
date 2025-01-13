@@ -1,42 +1,36 @@
-# Hi there, I'm Josephat Musyoka 👋
+# Hello 👋, I'm Josephat Musyoka
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Josephatmusyoka&color=blue)
 
-## About Me
+I’m an IT graduate from Kirinyaga University with a passion for technology 🚀. I’m dedicated to exploring and leveraging technological advancements to create innovative solutions. I love programming and problem-solving with my tech skills and have a strong commitment to communication and teamwork.
 
-I am a passionate software developer with a keen interest in web development, cloud computing, and open-source technologies. I love learning new things and sharing knowledge with the community.
+## 🔭 Current Work
+I’m currently working on developing an inventory management system for Umoja Fashion Collection.
 
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [New Technology or Skill]
-- 👯 I’m looking to collaborate on [Your Interests or Projects]
-- 💬 Ask me about [Your Areas of Expertise]
-- 📫 How to reach me: [Your Email or Social Media]
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: [A Fun Fact About You]
+## 🌱 Learning
+I’m currently enhancing my skills in Python 🐍 and its frameworks.
 
-## Skills
-
-### Programming Languages
+## 💬 Ask Me About
+Feel free to ask me about:
+- Data Science
+- Machine Learning
 - Python
 - JavaScript
-- Java
-- C#
+- SQL
 
-### Web Development
-- HTML5
-- CSS3
-- React
-- Node.js
+## 📫 How to Reach Me
+- **Email:** [musypk@gmail.com](mailto:musypk@gmail.com)
+- **Phone:** 📞 +254 717 530 861
 
-### Cloud & DevOps
-- AWS
-- Docker
-- Kubernetes
+## Connect with Me
+- **GitHub:** [Josephatmusyoka](https://github.com/Josephatmusyoka)
+- **LinkedIn:** [Josephat Musyoka](https://www.linkedin.com/in/josephat-musyoka)
 
-### Tools & Technologies
-- Git & GitHub
-- Visual Studio Code
-- Linux
+## Languages and Tools
+Here are some of the languages and tools I’ve been working with:
+
+- **Languages:** Python 🐍, JavaScript 🌐, SQL 💾, HTML/CSS 🎨, Java ☕, R 📊
+- **Tools & Technologies:** Git, Docker, REST APIs, TensorFlow, React, Node.js
 
 ## GitHub Stats
 
@@ -45,13 +39,3 @@ I am a passionate software developer with a keen interest in web development, cl
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Josephatmusyoka&layout=compact&theme=radical)
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Personal Website](https://your-website.com)
-
----
-
-Feel free to check out my repositories and get in touch if you'd like to collaborate on something interesting!
