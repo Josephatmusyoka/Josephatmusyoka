@@ -39,3 +39,7 @@ Here are some of the languages and tools I’ve been working with:
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Josephatmusyoka&layout=compact&theme=radical)
+
+## 📊 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Josephatmusyoka&langs_count=5&theme=dark)
