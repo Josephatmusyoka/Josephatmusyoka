@@ -1,11 +1,11 @@
 # 👋 Hey, I'm Josephat Musyoka
 
 <p align="center"> 
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+Student;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Building+Data-Driven+Solutions&center=true&width=500&height=45"> 
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+Student;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Building+Data-Driven+Solutions&center=true&width=500&height=45" alt="Typing SVG">
 </p> 
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Josephatmusyoka&color=0e75b6&style=flat" /> 
+  <img src="https://komarev.com/ghpvc/?username=Josephatmusyoka&color=0e75b6&style=flat" alt="Profile Views"/> 
 </p>
 
 
@@ -22,7 +22,6 @@ class Josephat:
         return "Transforming data into actionable insights 🚀"
 ```
 
-
 ## 🧠 AI / Data Science Stack
 
 <p align="center"> 
@@ -35,10 +34,11 @@ class Josephat:
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/> 
 </p>
 
+---
 
 ## 📊 Projects & Portfolio
 
-### 🧾 **Inventory Management System**
+### 🧾 Inventory Management System
 
 *Flask • MySQL • HTML/CSS • Python*
 
@@ -67,7 +67,8 @@ A **robust inventory system** for *Umoja Fashion Collection*, designed to **stre
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### 📊 **Data Analysis Projects**
+
+### 📊 Data Analysis Projects
 
 *Python • Pandas • Matplotlib • Seaborn*
 
@@ -95,7 +96,7 @@ Projects focused on **cleaning, analyzing, and visualizing real-world datasets**
 </p>
 
 
-### 🤖 **Machine Learning & AI Projects**
+### 🤖 Machine Learning & AI Projects
 
 *Python • Scikit-learn • TensorFlow*
 
@@ -123,7 +124,7 @@ End-to-end **ML pipelines**, including preprocessing, training, and evaluation f
 </p>
 
 
-### 🌟 **Mini Projects**
+### 🌟 Mini Projects
 
 * **COVID-19 Data Tracker:** Real-time dashboards and trend visualizations
 * **Stock Price Predictor:** ML model predicting market trends
@@ -139,6 +140,7 @@ End-to-end **ML pipelines**, including preprocessing, training, and evaluation f
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/API-000000?style=for-the-badge"/>
 </p>
+
 
 ## 🛠️ Tech Toolbox
 
@@ -168,7 +170,15 @@ End-to-end **ML pipelines**, including preprocessing, training, and evaluation f
 
 ## 📈 GitHub Analytics
 
-<p align="center"> <!-- Combined Stats Card --> <img src="https://ghstats.dev/api/card?username=Josephatmusyoka&theme=tokyonight" alt="Combined GitHub Stats" width="400" style="margin:10px"/> <!-- Main GitHub Stats --> <img src="https://github-readme-stats-fast.vercel.app/api?username=Josephatmusyoka&theme=radical" alt="GitHub Stats" width="400" style="margin:10px"/> </p> <p align="center"> <!-- Top Languages --> <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Josephatmusyoka&theme=radical" alt="Top Languages" width="400" style="margin:10px"/> <!-- GitHub Streak --> <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Josephatmusyoka&theme=radical" alt="GitHub Streak" width="400" style="margin:10px"/> </p>
+<p align="center"> 
+  <img src="https://ghstats.dev/api/card?username=Josephatmusyoka&theme=tokyonight" width="400" style="margin:10px"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Josephatmusyoka&theme=radical" width="400" style="margin:10px"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Josephatmusyoka&theme=radical" width="400" style="margin:10px"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Josephatmusyoka&theme=radical" width="400" style="margin:10px"/>
+</p>
+
 
 ## 🌍 Connect With Me
 
@@ -178,10 +188,11 @@ End-to-end **ML pipelines**, including preprocessing, training, and evaluation f
   <a href="https://github.com/Josephatmusyoka"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/></a> 
 </p>
 
+
 ## ⚡ Philosophy
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Philosophy-Data%20Driven%20&%20Insightful-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO9TXL0Y4OHwAAAABJRU5ErkJggg=="/>
+  <img src="https://img.shields.io/badge/Philosophy-Data%20Driven%20%26%20Insightful-blue?style=for-the-badge"/>
 </p>
 
 > “**Data is the new oil, but insight is the real fuel.**” 🔥
